@@ -1,0 +1,11 @@
+name: 'user-srv'
+mysql:
+  host: '192.168.0.101'
+  port: 3306
+  user: 'root'
+  password: 'root'
+  name: 'mxshop_user'
+
+consul:
+  host: '192.168.0.101'
+  port: 8500
